@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SAP-MSD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d19a7f56a078967d7844abc849dc63c6f258c8c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bfec2c54bc7b741c8584313bf27cf961b94a4d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("SAP-MSD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SAP-MSD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
